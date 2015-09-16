@@ -1,0 +1,1 @@
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp.csproj;x86

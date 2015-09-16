@@ -1,0 +1,826 @@
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\SmartWardrobeBackgroundApp.winmd
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\SmartWardrobeBackgroundApp.pdb
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\resources.pri
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\AppxManifest.xml
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\AppxManifest.xml
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\StoreLogo.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\ClrCompression.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Microsoft.CSharp.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Properties\Default.rd.xml
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\resources.pri
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\SmartWardrobeBackgroundApp.pdb
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\SmartWardrobeBackgroundApp.winmd
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.AppContext.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.Immutable.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.Specialized.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Core.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Data.Common.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Globalization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.Compression.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.FileSystem.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.Expressions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.Parallel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.Queryable.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Http.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Requests.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Sockets.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Numerics.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ObjectModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.Networking.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.Uri.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Context.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Emit.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Handles.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Security.Claims.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Security.Principal.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.Encoding.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Tasks.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Timer.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Windows.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.Linq.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.Serialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.XDocument.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\UWPShim.exe
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\SmartWardrobeBackgroundApp.build.appxrecipe
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Microsoft.CSharp.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Core.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Numerics.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Web.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Windows.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.Linq.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.Serialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Microsoft.VisualBasic.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.AppContext.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.Concurrent.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.Immutable.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.NonGeneric.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.Specialized.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Data.Common.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Debug.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Tools.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Dynamic.Runtime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Globalization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Globalization.Calendars.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Globalization.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.Compression.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\ClrCompression.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.FileSystem.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.Expressions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.Parallel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.Queryable.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Http.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Http.Rtc.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.NetworkInformation.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Requests.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Sockets.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Numerics.Vectors.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ObjectModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.Networking.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.ServiceModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.Uri.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Context.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Emit.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Metadata.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Resources.ResourceManager.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Handles.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.InteropServices.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Numerics.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Security.Claims.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Security.Principal.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Http.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Security.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.Encoding.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.RegularExpressions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Overlapped.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Tasks.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Timer.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.XDocument.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.XmlDocument.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.csprojResolveAssemblyReference.cache
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.winmd
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.pdb
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.winmdobj
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.compile.pdb
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\ResourceHandlingTask.state
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\priconfig.xml
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\priconfig.xml.intermediate
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\layout.resfiles
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\layout.resfiles.intermediate
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\resources.resfiles
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\resources.resfiles.intermediate
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\pri.resfiles
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\pri.resfiles.intermediate
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\qualifiers.txt
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\qualifiers.txt.intermediate
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\resources.pri.xml
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\ProjectArchitectures.txt
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\SmartWardrobeBackgroundApp.winmd
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\SmartWardrobeBackgroundApp.pdb
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Microsoft.CSharp.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Core.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Numerics.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Windows.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.Linq.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.Serialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.AppContext.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.Immutable.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.Specialized.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Data.Common.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Globalization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.Compression.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\ClrCompression.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.FileSystem.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.Expressions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.Parallel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.Queryable.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Http.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Requests.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Sockets.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ObjectModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.Networking.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.Uri.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Context.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Emit.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Handles.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Security.Claims.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Security.Principal.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.Encoding.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Tasks.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Timer.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.XDocument.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Properties\Default.rd.xml
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\StoreLogo.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+d:\users\sgtanseey\documents\visual studio 2015\Projects\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\resources.pri
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.winmd
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.winmdobj
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.compile.pdb
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\SmartWardrobeBackgroundApp.winmd
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\SmartWardrobeBackgroundApp.pdb
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\resources.pri
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\AppxManifest.xml
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\StoreLogo.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\ClrCompression.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Microsoft.CSharp.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Newtonsoft.Json.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\resources.pri
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\SmartWardrobeBackgroundApp.pdb
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\SmartWardrobeBackgroundApp.winmd
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.AppContext.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.Immutable.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Collections.Specialized.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Core.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Data.Common.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Globalization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.Compression.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.FileSystem.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.Expressions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.Parallel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Linq.Queryable.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Http.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Requests.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.Sockets.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Numerics.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ObjectModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.Networking.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Private.Uri.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Context.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Emit.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Handles.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Security.Claims.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Security.Principal.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.Encoding.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Tasks.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Threading.Timer.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Windows.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.Linq.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.Serialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.XDocument.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\UWPShim.exe
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\SmartWardrobeBackgroundApp.build.appxrecipe
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Core.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Numerics.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Windows.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.AppContext.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Data.Common.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Globalization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\ClrCompression.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Http.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\SmartWardrobeBackgroundApp.pdb
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\priconfig.xml
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\layout.resfiles
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\resources.resfiles
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\pri.resfiles
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\qualifiers.txt
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\StoreLogo.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\SmartWardrobeBackgroundApp.winmd
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\SmartWardrobeBackgroundApp.pdb
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Microsoft.CSharp.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Core.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Numerics.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Windows.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.Linq.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.Serialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\Newtonsoft.Json.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.AppContext.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.Immutable.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Collections.Specialized.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Data.Common.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Globalization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.Compression.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\ClrCompression.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.FileSystem.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.Expressions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.Parallel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Linq.Queryable.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Http.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Requests.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.Sockets.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ObjectModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.Networking.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Private.Uri.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Context.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Emit.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Handles.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Security.Claims.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Security.Principal.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.Encoding.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Tasks.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Threading.Timer.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.XDocument.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\tan\Desktop\Windows IoT\SmartWardrobeBackgroundApp\SmartWardrobeBackgroundApp\obj\x86\Debug\Core\resources.pri

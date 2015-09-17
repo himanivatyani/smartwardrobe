@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartWardrobe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update_cloth_details">Update Cloth Details</string>
+</resources>

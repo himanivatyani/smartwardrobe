@@ -27,7 +27,10 @@ namespace SmartWardrobeBackgroundApp
         public void Run(IBackgroundTaskInstance taskInstance)
         {
             //run core function to read and send tags over to Web API
-            read_RFID();
+            while(true)
+            {//may consider using thread timer
+                read_RFID();
+            }
         }
  
         private async void read_RFID()
